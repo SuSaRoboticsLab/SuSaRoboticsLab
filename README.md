@@ -1,71 +1,47 @@
-# Hi there 👋
-
 # SuSa Robotics Lab
 
-## Robotics & AI Engineer | Autonomous Systems | Computer Vision | Embedded AI
+### Robotics Research • Biomedical Robotics • Autonomous Systems • Embedded Intelligence
 
-I am focused on developing intelligent robotic systems using:
+I am a Robotics and AI Engineer focused on the development of intelligent robotic systems at the intersection of **autonomous robotics, biomedical engineering, computer vision, embedded systems, and intelligent control**.
 
-- ROS2
-- Computer Vision
-- Reinforcement Learning
-- Embedded AI
-- Autonomous Navigation
-- Lidar-Based Robotics
-- Raspberry Pi & Jetson Platforms
+This GitHub serves as an engineering and research workspace for developing, documenting, and evaluating robotic systems from algorithmic prototypes to embedded and real-time implementations.
 
----
+My current technical interests include:
 
-# Research & Development Areas
+* Autonomous robotic systems and navigation
+* Computer vision and machine perception
+* Biomedical and assistive robotics
+* Human-centered robotic systems
+* Embedded AI and edge computing
+* Sensor fusion and intelligent control
+* ROS2-based robotic architectures
+* Industrial automation and robotic perception
 
-- Autonomous Vehicles
-- AI Robotics
-- Embedded Systems
-- Reinforcement Learning
-- Vision-Based Navigation
-- Intelligent Control Systems
+The long-term research direction is the development of **intelligent, reliable, and human-centered robotic systems** capable of operating in biomedical, industrial, and autonomous environments.
 
----
+## Research & Engineering Areas
 
-# Technologies & Tools
+### Autonomous Robotics
 
-## Robotics
-- ROS2
-- Gazebo
-- RViz
-- SLAM
+ROS2-based robotic systems, autonomous navigation, SLAM, LiDAR perception, computer vision, sensor fusion, path planning, and intelligent control.
 
-## Programming
-- Python
-- C++
-- OpenCV
+### Biomedical Robotics
 
-## Hardware Platforms
-- Raspberry Pi 5
-- Jetson Nano
-- STM32
-- LD19 Lidar
+Assistive and rehabilitation robotics, biomechatronics, human motion analysis, biosignal-driven interfaces, medical computer vision, and human–robot interaction.
 
----
+### Intelligent Perception
 
-# Featured Projects
+Real-time computer vision, object detection and tracking, visual navigation, multimodal sensing, and machine-learning-based perception.
 
-## Real-Time Lane Detection using OpenCV
-Real-time lane detection system for autonomous robotic navigation using Python and OpenCV.
+### Embedded & Edge Robotics
 
-More robotics projects coming soon...
+STM32, Raspberry Pi, NVIDIA Jetson, real-time sensing and control, embedded communication, motor control, and edge AI deployment.
 
----
+### Industrial Intelligent Systems
 
-# Goals
+Machine vision, robotic automation, condition monitoring, embedded control systems, intelligent inspection, and Industry 4.0-oriented robotic platforms.
 
-- Develop advanced autonomous robotic systems
-- Publish robotics research
-- Build intelligent AI-driven robotics platforms
-- Collaborate on robotics R&D projects
+### Learning-Based Robotics
 
----
+Reinforcement learning, adaptive control, data-driven robotics, robot learning, and simulation-to-real system development.
 
-# Connect
-
-- GitHub: https://github.com/SuSaRoboticsLab
